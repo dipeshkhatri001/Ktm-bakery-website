@@ -1,0 +1,8 @@
+{
+  "name": "KTM Bakery Staff",
+  "short_name": "KTM Staff",
+  "start_url": "admin.html", 
+  "display": "standalone",
+  "background_color": "#4b2e05",
+  "theme_color": "#4b2e05"
+}
